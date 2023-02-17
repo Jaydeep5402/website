@@ -1,0 +1,169 @@
+ #rule{
+    border-color:blue;
+    border-width: 5px;
+    margin-top: 40px;
+    
+ }
+ 
+ h1{
+    margin-top: 5px;
+    position: absolute;
+ }
+h6{
+    margin-top: 40px;
+    
+}
+ .header{
+   
+    position: absolute;
+    padding: 3px;
+
+ }
+.con1{
+    padding: 0%;
+    list-style: none;
+    margin-left: 60%;
+    margin-top: 50px;
+    
+ }
+li{
+    display: inline;
+    text-decoration: none;
+    padding: 5px;
+    size: 5px;
+   
+
+ }
+ .container1{
+    display: flex;
+    /* align-items: center; */
+ }
+ .cb1{
+    flex: 2;
+    margin-right: 2%;
+ }
+ .cb2{
+    flex: 4;
+    margin-top: 10%;
+    padding-right: 180px;
+    font-size: larger;
+ }
+ .btn1{
+    color: white;
+    background-color:blue;
+    padding: 20px;
+    font-size: larger;
+
+ }
+ .container2{
+    display: flex;
+    
+ }
+.cb3{
+    flex: 1;
+    padding: 5%;
+    font-size: 25px;
+}
+.cb4{
+    flex: 1;
+    padding: 5%;
+    font-size: 25px;
+}
+.cb5{
+    flex: 1;
+    padding: 5%;
+    font-size: 25px;
+}
+h2{
+    /* padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%; */
+    padding: 3% 10% 3% 10%;
+    align-items: center;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+}
+.con3{
+    display: flex;
+    
+}
+.b1{
+    flex: 1;
+     /* padding: 5%; */
+    font-size: 25px; 
+    
+
+}
+
+.con4{
+    display: flex;
+    
+}
+
+.t1{
+    display: flex;
+    margin: 1%;
+}
+
+.t1 h1{
+    font-size:large;
+    
+    
+
+}
+.t1 h5{
+    font-size: medium;
+    /* margin-top: 14%; */
+    
+}
+
+.fdiv1{
+    margin-bottom: 0%;
+    display: flex;
+ flex-direction: row;
+ background-color: rgb(44, 42, 42);
+}
+.fdiv1 h3{
+    color: rgb(204, 207, 210);
+   }
+   .fdiv1 p{
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+   }
+   .contact{
+    flex:1;
+    margin-left: 2%;
+   }
+   .link{
+    flex:1;
+    padding-right: 5%;
+   }
+   .blog{
+    flex:1;
+   }
+   .news{
+    flex:1;
+   }
+   extra{
+    flex:0.5;
+   }
+   .fdiv2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(31, 31, 31);
+    padding-top: 1%;
+    color: wheat;
+    /* padding-left: 1%; */
+   }
+   .fdiv2 p{
+    margin-top: 0px;
+    
+   }
+   #p1{
+    padding-left: 1%;
+    margin-right: 45%;
+   }
